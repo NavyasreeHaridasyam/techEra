@@ -1,0 +1,22 @@
+.course-container {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: 18vw;
+  height: 150px;
+  cursor: pointer;
+}
+
+.course-logo {
+  height: 80px;
+  width: 80px;
+}
+
+.course-name {
+  font-family: Roboto;
+  color: ##1e293b;
+  font-weight: bold;
+  padding-left: 20px;
+  font-style: normal;
+}
